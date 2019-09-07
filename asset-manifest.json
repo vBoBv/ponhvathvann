@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ponhvathvann/static/css/main.df241dd5.chunk.css",
+    "main.js": "/ponhvathvann/static/js/main.0af9b1c1.chunk.js",
+    "main.js.map": "/ponhvathvann/static/js/main.0af9b1c1.chunk.js.map",
+    "runtime~main.js": "/ponhvathvann/static/js/runtime~main.50bf8f7b.js",
+    "runtime~main.js.map": "/ponhvathvann/static/js/runtime~main.50bf8f7b.js.map",
+    "static/css/2.539bd89c.chunk.css": "/ponhvathvann/static/css/2.539bd89c.chunk.css",
+    "static/js/2.e08a19de.chunk.js": "/ponhvathvann/static/js/2.e08a19de.chunk.js",
+    "static/js/2.e08a19de.chunk.js.map": "/ponhvathvann/static/js/2.e08a19de.chunk.js.map",
+    "index.html": "/ponhvathvann/index.html",
+    "precache-manifest.097a31586ba4b0b0629b417073bad6d6.js": "/ponhvathvann/precache-manifest.097a31586ba4b0b0629b417073bad6d6.js",
+    "service-worker.js": "/ponhvathvann/service-worker.js",
+    "static/css/2.539bd89c.chunk.css.map": "/ponhvathvann/static/css/2.539bd89c.chunk.css.map",
+    "static/css/main.df241dd5.chunk.css.map": "/ponhvathvann/static/css/main.df241dd5.chunk.css.map",
+    "static/media/mdb.css": "/ponhvathvann/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/bankApp.gif": "/ponhvathvann/static/media/bankApp.7640112e.gif",
+    "static/media/cms.gif": "/ponhvathvann/static/media/cms.0aad8279.gif",
+    "static/media/consoleGame.gif": "/ponhvathvann/static/media/consoleGame.f17a9ea4.gif",
+    "static/media/all.min.css": "/ponhvathvann/static/media/fa-solid-900.d6d8d5da.woff2",
+    "static/media/ponhvathvannCV.pdf": "/ponhvathvann/static/media/ponhvathvannCV.f863778c.pdf",
+    "static/media/travelBuddy.gif": "/ponhvathvann/static/media/travelBuddy.5d1f4307.gif",
+    "static/media/videoApp.gif": "/ponhvathvann/static/media/videoApp.92c75fba.gif",
+    "static/media/LandingSection.css": "/ponhvathvann/static/media/wall.0babc688.jpg",
+    "static/media/website.gif": "/ponhvathvann/static/media/website.85b7f883.gif"
+  }
+}
