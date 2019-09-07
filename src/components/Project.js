@@ -39,7 +39,7 @@ class Project extends React.Component {
                                         // (<li key={projectContent}>{projectContent}</li>) :
                                         // (<li>Undefine</li>)
                                         //(project.projectTitle === 'Movie Rental Membership System') ?
-                                        (<li key={projectContent}>{projectContent}</li>)
+                                        <li key={projectContent}>{projectContent}</li>
                                     )
                                 })}
                             </ul>
@@ -51,7 +51,7 @@ class Project extends React.Component {
     }
 
     render() {
-        console.log(this.props.projects)
+        //console.log(this.props.projects)
         return (
             <div id= "Project">
                 <Container>
