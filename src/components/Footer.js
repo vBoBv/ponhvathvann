@@ -9,7 +9,7 @@ function Footer() {
             <Container>
                 <Row>
                     <Col md={12} xs={12}>
-                        <div className="">
+                        <div className="contactUsFormat">
                             <p className='infoContact' >&copy; 2019 By Ponhvath Vann.</p>
                         </div>
                     </Col>
