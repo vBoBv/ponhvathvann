@@ -6,11 +6,11 @@ import Skill from './Skill';
 import Project from './Project';
 import Contact from './Contact';
 import Footer from './Footer';
-import '../css/App.css'
+
 
 const App = () => {
     return (
-        <div className="bodyContent">
+        <div>
             <NavBar />
             <LandingSection />
             <SectionHeader section="# Skills" />
