@@ -1,0 +1,17 @@
+.skillBoxStyle {
+    text-align: center;
+    border-radius: 20px;
+    background-color: #1F618D;
+    margin: 20px;
+    padding: 10px;
+    color: white
+}
+
+.categoryTitle {
+    color: #AED6F1;
+}
+
+.skillStyle {
+    font-size: 20px;
+    padding-bottom: 5px;
+}

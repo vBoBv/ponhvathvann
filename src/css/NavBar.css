@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+.logo {
+    font-family: 'Pacifico', cursive;
+}
+
+.link:hover {
+    border-left: 5px solid rgb(0, 183, 255)
+}
+
+#Project::before,
+#Contact::before {
+  display: block;
+  content: " ";
+  margin-top: -65px;
+  height: 65px;
+  visibility: hidden;
+}
