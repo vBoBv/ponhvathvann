@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ea47793c1d21c0f0777f48ffc98d681",
+    "revision": "f392d06273e3aa893730b6983b45800e",
     "url": "/ponhvathvann/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ponhvathvann/static/css/2.539bd89c.chunk.css"
   },
   {
-    "revision": "476a905bb48cea6d04c0",
+    "revision": "1fe0141b805be01f8c17",
     "url": "/ponhvathvann/static/css/main.f34dc368.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ponhvathvann/static/js/2.e08a19de.chunk.js"
   },
   {
-    "revision": "476a905bb48cea6d04c0",
-    "url": "/ponhvathvann/static/js/main.363878e0.chunk.js"
+    "revision": "1fe0141b805be01f8c17",
+    "url": "/ponhvathvann/static/js/main.39bd0e2e.chunk.js"
   },
   {
     "revision": "800d0c01ae0730abddb5",
