@@ -46,7 +46,7 @@ const projectsReducer = () => {
             ],
             gif: websiteGif,
             demo: 'vbobv.github.io/ponhvathvann',
-            sourceCode: '/'
+            sourceCode: 'https://vbobv.github.io/ponhvathvann/'
         },
         {
             projectTitle: 'Online Video Media Player',
