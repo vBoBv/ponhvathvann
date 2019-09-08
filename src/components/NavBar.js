@@ -30,7 +30,7 @@ class NavBar extends React.Component {
         return (
         <div>
             <Navbar color="light" light expand="md" >
-            <NavbarBrand href="https://vbobv.github.io/website/" className="logo">ponhvath-vann</NavbarBrand>
+            <NavbarBrand href="https://vbobv.github.io/ponhvathvann/" className="logo">ponhvath-vann</NavbarBrand>
             <NavbarToggler onClick={this.toggle} />
             <Collapse isOpen={this.state.isOpen} navbar style={{textAlign: 'center'}}>
                 <Nav className="ml-auto" navbar >
