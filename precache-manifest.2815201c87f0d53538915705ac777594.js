@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd78db984fb8fb3b3256377a91e9a355",
+    "revision": "69cf996622238cf6c19ca7ec01f830cf",
     "url": "/ponhvathvann/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ponhvathvann/static/css/2.539bd89c.chunk.css"
   },
   {
-    "revision": "962b078cdaa855a908d7",
+    "revision": "93e42c43e3b3dc381912",
     "url": "/ponhvathvann/static/css/main.f34dc368.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ponhvathvann/static/js/2.e08a19de.chunk.js"
   },
   {
-    "revision": "962b078cdaa855a908d7",
-    "url": "/ponhvathvann/static/js/main.3746fc0c.chunk.js"
+    "revision": "93e42c43e3b3dc381912",
+    "url": "/ponhvathvann/static/js/main.55edcc53.chunk.js"
   },
   {
     "revision": "800d0c01ae0730abddb5",
@@ -184,8 +184,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ponhvathvann/static/media/fa-solid-900.d6d8d5da.woff2"
   },
   {
-    "revision": "f863778cf0321bf496628cb8146241ea",
-    "url": "/ponhvathvann/static/media/ponhvathvannCV.f863778c.pdf"
+    "revision": "4a110229c1375d8fda04950768e5e606",
+    "url": "/ponhvathvann/static/media/ponhvathvannCV.4a110229.pdf"
   },
   {
     "revision": "5d1f4307d6ebba4d2bd195a2606fb020",
