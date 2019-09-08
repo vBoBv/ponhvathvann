@@ -45,8 +45,8 @@ const projectsReducer = () => {
                 'Implemented Reactstrap Library for responsiveness'
             ],
             gif: websiteGif,
-            demo: 'vbobv.github.io/ponhvathvann',
-            sourceCode: 'https://vbobv.github.io/ponhvathvann/'
+            demo: 'https://vbobv.github.io/ponhvathvann/',
+            sourceCode: 'https://github.com/vBoBv/ponhvathvann'
         },
         {
             projectTitle: 'Online Video Media Player',
