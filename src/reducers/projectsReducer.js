@@ -26,7 +26,7 @@ const projectsReducer = () => {
             projectTitle: 'Banking Application', 
             description: [
                 'Built with Java programming language',
-                'A replica of mobile internet banking but desktop version',
+                'Desktop version of an Online Banking',
                 'User can deposit, withdraw and transfer money from different accounts',
                 'All kind of transactions will be saved into csv files',
                 'Utilized Java Date API'
@@ -52,7 +52,7 @@ const projectsReducer = () => {
             projectTitle: 'Online Video Media Player',
             description: [
                 'Built with JavaScript (ES6), React / Axios',
-                'A prototype version of Youtube',
+                'A replica of Youtube',
                 'Utilized Axios to request data from Youtube API',
                 'Implemented Semantic UI Javascript Library'
             ],

@@ -41,7 +41,7 @@ const Contact = () => {
                                 </a>
                             </span>
                             <p className= 'infoContact'>vannponhvath@gmail.com</p>
-                            <p className= 'infoContact'>(+64) 0212260622</p>
+                            <p className= 'infoContact'>(+64) 212260622</p>
                         </div>  
                     </Col>
                 </Row>
