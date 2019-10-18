@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44c7d2dad6cd6a8a4869ad500b848a52",
+    "revision": "78a51ab57bd354d63bee2e7f91e38493",
     "url": "/ponhvathvann/index.html"
   },
   {
-    "revision": "f606e17f79d56b8b896c",
-    "url": "/ponhvathvann/static/css/2.539bd89c.chunk.css"
+    "revision": "28dfb042c95a665f4438",
+    "url": "/ponhvathvann/static/css/2.1ae352bd.chunk.css"
   },
   {
-    "revision": "53187edaf4418f774442",
-    "url": "/ponhvathvann/static/css/main.f34dc368.chunk.css"
+    "revision": "f7924b0c27e59fa2bd62",
+    "url": "/ponhvathvann/static/css/main.886af7a0.chunk.css"
   },
   {
-    "revision": "f606e17f79d56b8b896c",
+    "revision": "28dfb042c95a665f4438",
     "url": "/ponhvathvann/static/js/2.e08a19de.chunk.js"
   },
   {
-    "revision": "53187edaf4418f774442",
-    "url": "/ponhvathvann/static/js/main.df5697df.chunk.js"
+    "revision": "f7924b0c27e59fa2bd62",
+    "url": "/ponhvathvann/static/js/main.c88b84ff.chunk.js"
   },
   {
     "revision": "800d0c01ae0730abddb5",
@@ -184,8 +184,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ponhvathvann/static/media/fa-solid-900.d6d8d5da.woff2"
   },
   {
-    "revision": "5a027abe5f37212057367c24a2d9aba6",
-    "url": "/ponhvathvann/static/media/ponhvathvannCV.5a027abe.pdf"
+    "revision": "04bcf296267c5803009b1841d37242b3",
+    "url": "/ponhvathvann/static/media/ponhvathvannCV.04bcf296.pdf"
   },
   {
     "revision": "5d1f4307d6ebba4d2bd195a2606fb020",
