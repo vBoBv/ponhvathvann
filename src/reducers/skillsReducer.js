@@ -17,10 +17,11 @@ const reactIcon = <FontAwesomeIcon icon={["fab","react"]} />
 
 const skillsReducer = () => {
     return [
-        { category: 'Programming', skillList: ['Java', 'Python'], icon: [ javaIcon, pythonIcon ] },
-        { category: 'Front-End & Frameworks', skillList: ['HTML5', 'CSS3', 'JavaScript (ES6)', 'Bootstrap 4', 'React / Redux'], icon: [ htmlIcon, cssIcon, javascriptIcon, bootstrapIcon, reactIcon] },
-        { category: 'OS Management', skillList: ['Debian', 'Raspbian', 'Hardware Technology', 'Basic Network-Configuration'] },
-        { category: 'Additional Skills', skillList: ['GitHub', 'Git Flow', 'Wireframing / UML', 'Microsoft SQL Server', 'SDLC'] }
+        { category: 'Programming', skillList: ['C','Java', 'Python'], icon: [ javaIcon, pythonIcon ] },
+        { category: 'Frameworks', skillList: ['React', 'Redux', 'React Native', 'Bootstrap 4'] },
+        { category: 'Front-End & Back-End', skillList: ['HTML5', 'CSS3', 'JavaScript (ES6)', 'Node', 'Express', 'MongoDB'], icon: [ htmlIcon, cssIcon, javascriptIcon, bootstrapIcon, reactIcon] },
+        // { category: 'OS Management', skillList: ['Debian', 'Raspbian', 'Hardware Technology', 'Basic Network-Configuration'] },
+        { category: 'Additional Skills', skillList: ['GitHub', 'Git / Git Flow', 'Wireframing / UML', 'Microsoft SQL Server', 'SDLC', 'Linux / Debian / Raspbian'] }
     ]
 }
 

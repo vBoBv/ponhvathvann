@@ -16,9 +16,9 @@ class Skill extends React.Component {
                                 return(
                                 (skill.category === 'Programming') ? 
                                 (<div key={eachSkill} className="skillStyle">  {eachSkill} </div>):
-                                (skill.category === 'Front-End & Frameworks') ? 
+                                (skill.category === 'Front-End & Back-End') ? 
                                 (<div key={eachSkill} className="skillStyle"> {eachSkill} </div>):
-                                (skill.category === 'OS Management') ?
+                                (skill.category === 'Frameworks') ?
                                 (<div key={eachSkill} className="skillStyle"> {eachSkill} </div>):
                                 (skill.category === 'Additional Skills') ?
                                 <div key={eachSkill} className="skillStyle"> {eachSkill} </div> :
