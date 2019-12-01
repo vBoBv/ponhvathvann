@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78a51ab57bd354d63bee2e7f91e38493",
+    "revision": "3707d7cdde036063f720f7c7800c6418",
     "url": "/ponhvathvann/index.html"
   },
   {
-    "revision": "28dfb042c95a665f4438",
-    "url": "/ponhvathvann/static/css/2.1ae352bd.chunk.css"
+    "revision": "f606e17f79d56b8b896c",
+    "url": "/ponhvathvann/static/css/2.539bd89c.chunk.css"
   },
   {
-    "revision": "f7924b0c27e59fa2bd62",
-    "url": "/ponhvathvann/static/css/main.886af7a0.chunk.css"
+    "revision": "5fc765a4800ddddd9fca",
+    "url": "/ponhvathvann/static/css/main.f34dc368.chunk.css"
   },
   {
-    "revision": "28dfb042c95a665f4438",
+    "revision": "f606e17f79d56b8b896c",
     "url": "/ponhvathvann/static/js/2.e08a19de.chunk.js"
   },
   {
-    "revision": "f7924b0c27e59fa2bd62",
-    "url": "/ponhvathvann/static/js/main.c88b84ff.chunk.js"
+    "revision": "5fc765a4800ddddd9fca",
+    "url": "/ponhvathvann/static/js/main.9e40a93b.chunk.js"
   },
   {
     "revision": "800d0c01ae0730abddb5",
@@ -184,8 +184,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ponhvathvann/static/media/fa-solid-900.d6d8d5da.woff2"
   },
   {
-    "revision": "04bcf296267c5803009b1841d37242b3",
-    "url": "/ponhvathvann/static/media/ponhvathvannCV.04bcf296.pdf"
+    "revision": "8e79b7589386395681796fcbe20905bb",
+    "url": "/ponhvathvann/static/media/ponhvathvannCV.8e79b758.pdf"
   },
   {
     "revision": "5d1f4307d6ebba4d2bd195a2606fb020",
