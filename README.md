@@ -1,5 +1,5 @@
 <h1>Portfolio 2.0 Website</h1>
-<p>A website that was developed using React and Redux.</p>
+<p>Portfolio 2.0 developed with React and Redux.</p>
 
 <h2>What I Used</h2>
 <ul>
