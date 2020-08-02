@@ -17,12 +17,12 @@ const skillsReducer = () => {
 	return [
 		{
 			category: 'Programming',
-			skillList: ['C', 'C#', 'Java', 'Python'],
+			skillList: ['C', 'C#', 'Java', 'Python', 'TypeScript'],
 			icon: [javaIcon, pythonIcon]
 		},
 		{
 			category: 'Framework',
-			skillList: ['React', 'Redux', 'Sass', 'Bootstrap 4', 'React Native']
+			skillList: ['React', 'Redux', 'Django', 'Sass', 'Bootstrap 4', 'React Native']
 		},
 		{
 			category: 'Front-End & Back-End',
