@@ -22,24 +22,19 @@ const skillsReducer = () => {
 		},
 		{
 			category: 'Framework',
-			skillList: ['React', 'Redux', 'Django', 'Sass', 'Bootstrap 4', 'React Native']
+			skillList: ['React', 'Redux', 'Django', 'ASP.Net', 'Sass', 'Bootstrap 4', 'React Native']
 		},
 		{
 			category: 'Front-End & Back-End',
-			skillList: [
-				'HTML5',
-				'CSS3',
-				'JavaScript (ES6+)',
-				'Node',
-				'Express',
-				'MongoDB'
-			],
+			skillList: ['HTML5', 'CSS3', 'JavaScript (ES6+)', 'Node', 'Express', 'MongoDB', 'SQLite'],
 			icon: [htmlIcon, cssIcon, javascriptIcon, bootstrapIcon, reactIcon]
 		},
 		// { category: 'OS Management', skillList: ['Debian', 'Raspbian', 'Hardware Technology', 'Basic Network-Configuration'] },
 		{
 			category: 'Additional Skills',
 			skillList: [
+				'Azure Cloud Services',
+				'Azure DevOps',
 				'GitHub',
 				'Git / Git Flow',
 				'Wireframing / UML',
