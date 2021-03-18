@@ -34,7 +34,7 @@ const LandingSection = () => {
 					</Row>
 					<Row>
 						<Col>
-							<div className='creatorName'>Front-End Developer</div>
+							<div className='creatorName'>Full Stack Developer</div>
 						</Col>
 					</Row>
 					<Row>
