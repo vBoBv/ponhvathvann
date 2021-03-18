@@ -22,11 +22,11 @@ const skillsReducer = () => {
 		},
 		{
 			category: 'Framework',
-			skillList: ['React', 'Redux', 'Django', 'ASP.Net', 'Sass', 'Bootstrap 4', 'React Native']
+			skillList: ['React', 'Redux', 'Django', '.NET Core', 'ASP.NET', 'Apache Kafka', 'Sass', 'React Native']
 		},
 		{
 			category: 'Front-End & Back-End',
-			skillList: ['HTML5', 'CSS3', 'JavaScript (ES6+)', 'Node', 'Express', 'MongoDB', 'SQLite'],
+			skillList: ['HTML5', 'CSS3', 'JavaScript (ES6+)', 'Node', 'Express', 'MongoDB', 'MySQL/PostgreSQL'],
 			icon: [htmlIcon, cssIcon, javascriptIcon, bootstrapIcon, reactIcon]
 		},
 		// { category: 'OS Management', skillList: ['Debian', 'Raspbian', 'Hardware Technology', 'Basic Network-Configuration'] },
@@ -35,10 +35,12 @@ const skillsReducer = () => {
 			skillList: [
 				'Azure Cloud Services',
 				'Azure DevOps',
+				'AWS',
+				'Docker',
+				'Kubernetes',
 				'GitHub',
 				'Git / Git Flow',
 				'Wireframing / UML',
-				'Microsoft SQL Server',
 				'SDLC',
 				'Debian / Raspbian'
 			]
