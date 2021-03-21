@@ -6,9 +6,35 @@ import bankApp from '../images/bankApp.gif';
 import videoApp from '../images/videoApp.gif';
 import fastHorse from '../images/fastHorse.gif';
 import ngawariEnrol from '../images/ngawariEnrol.gif';
+import cosmosRing from '../images/cosmosRing.gif';
+import above from '../images/above.gif';
 
 const projectsReducer = () => {
 	return [
+		{
+			projectTitle: 'Cosmos Ring',
+			description: [
+				'A RESTful-Based web app developed with React / Redux / TypeScript / Django Rest Framework',
+				'Utilized AWS S3 Bucket to deploy Front-End app',
+				'Dockerized the Back-End app with Docker on AWS EC2',
+				'Deployed a PostgreSQL database on cloud with AWS RDS'
+			],
+			gif: cosmosRing,
+			demo: 'http://www.cosmosring.me/',
+			sourceCode: 'https://github.com/vBoBv/cosmosring/tree/assignment-2/Assignment/iscg7420-Assignment1'
+		},
+		{
+			projectTitle: 'Above',
+			description: [
+				'A RESTful-Based web app developed with React / TypeScript / .NET Core',
+				'Implemented CQRS - MediatR Pattern for the Back-End architecture',
+				'Utilized Azure Cloud Services for Web App and MySQL Database',
+				'Deployed Web App to Azure DevOps for CI/CD'
+			],
+			gif: above,
+			demo: 'https://aboveyou.azurewebsites.net/',
+			sourceCode: 'https://github.com/vBoBv/MSA-Phase-2-Fullstack'
+		},
 		{
 			projectTitle: 'Fast Horse Takeaway',
 			description: [
